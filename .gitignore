@@ -1,0 +1,8 @@
+dist/*
+*.log
+.DS_Store
+node_modules
+/client/node_modules/
+/moview/node_modules/
+/server/node_modules/
+/next/node_modules/

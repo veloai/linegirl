@@ -1,0 +1,12 @@
+{
+    
+    "host" : "cocle-dev-maria.cazqm4cbs9n1.ap-northeast-2.rds.amazonaws.com",
+
+    "user": "cocle_5n",
+
+    "password": "5n&zhzmf",
+
+    "port": "3306",
+
+    "database": "BADMINTON"
+}
